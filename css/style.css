@@ -1353,8 +1353,14 @@ textarea:focus {
   .price__inner {
     padding: 25px 25px 30px;
   }
+  .price__head {
+    margin: 0 -25px;
+  }
   .price__col--free .price__inner {
     padding-left: 25px;
+  }
+  .price__col--free .price__head {
+    margin-left: -25px;
   }
   .partners {
     padding: 30px 0;
