@@ -1354,7 +1354,7 @@ textarea:focus {
     padding: 25px 25px 30px;
   }
   .price__head {
-    margin: 0 -25px;
+    margin: 0 -25px 20px;
   }
   .price__col--free .price__inner {
     padding-left: 25px;
