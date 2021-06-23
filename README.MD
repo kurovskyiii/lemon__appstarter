@@ -1,1 +1,3 @@
-This is repo for AppStarter project.
+# AppStarter
+
+First front-end project during education program in "Lemon.School".
